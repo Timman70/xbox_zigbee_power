@@ -24,3 +24,8 @@ This integration:
 - Updates the state using a `binary_sensor.xbox_ping` entity
 
 No manual configuration in `configuration.yaml` is required.
+
+
+---
+
+Created by **TimCloud** (@Timman70)
